@@ -1,4 +1,4 @@
-![Poster SIPTA](https://github.com/SIPTA-UEU/.github/blob/main/img/sipta.png)
+![Poster SIPTA](img\sipta.png)
 
 # SIPTA - Sistem Informasi Pengelolaan Tugas Akhir
 
@@ -58,9 +58,8 @@ SIPTA dikembangkan oleh **Jenyta Primaranti**.
 
 
 ### Kontak
-
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jenytaprimaranti)
-- **ORCID ID**: [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0009-0001-3792-6259)
+- **ORCID ID**: [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0000-0000-0000-0000)
 
 ## Lisensi
 

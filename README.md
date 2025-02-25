@@ -1,4 +1,4 @@
-![Poster SIPTA](img\sipta.png)
+![Poster SIPTA](https://github.com/SIPTA-UEU/.github/blob/main/img/sipta.png)
 
 # SIPTA - Sistem Informasi Pengelolaan Tugas Akhir
 
